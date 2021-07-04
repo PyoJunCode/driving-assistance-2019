@@ -14,7 +14,7 @@ Improving AI driver assistance system with low-level language (C, C++)
 
 - 운전 중 발생할 수 있는 다양한 시야 환경 변화 (터널 진입 등) 에서 안정적인 object detection의 불가
 - 점선, 페인트지워짐, 교차로 등의 다양한 도로 환경에서의 차선 검출 성능 저하
--  연산량의 증가로 인한 성능 저하
+- 연산량의 증가로 인한 성능 저하
 
 **Goal**
 
@@ -25,8 +25,6 @@ Improving AI driver assistance system with low-level language (C, C++)
 original due : 2019/10/22 ~ 2019/12/5
 
 restored/uploaded : 2021
-
-Video included in pptx
 
 <br>
 
