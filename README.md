@@ -26,6 +26,8 @@ original due : 2019/10/22 ~ 2019/12/5
 
 restored/uploaded : 2021
 
+Video included in pptx
+
 <br>
 
 ## Index
