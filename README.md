@@ -30,7 +30,7 @@ restored/uploaded : 2021
 
 ## Index
 
-->[Pedestrian Detection](https://github.com/PyoJunCode/driving-assistance-2019#Improved -Pedestrian-Detection-system)
+->[Pedestrian Detection](https://github.com/PyoJunCode/driving-assistance-2019#Improved-Pedestrian-Detection-system)
 
 ->[Driver Assistance](https://github.com/PyoJunCode/driving-assistance-2019#Improved-Driver-assistance-system)
 
@@ -44,7 +44,7 @@ C/C++ for PL
 
 CNN - for Image recognition (fine tuned Yolo v2)
 
-cv2 - for video image preprocessing
+OpenCV - for video image preprocessing
 
 <br>
 
